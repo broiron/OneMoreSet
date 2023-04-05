@@ -1,0 +1,8 @@
+.body_contents{
+    display:flex;
+    align-content:stretch;
+}
+
+.body_contents > button{
+    height:100px;
+}
