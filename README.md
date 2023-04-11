@@ -18,6 +18,9 @@ Hello! We designed the online personal training AI through google teachable mach
 - Our service provide the real time voice feedback to fix your wrong fitness posture.
 - Feedbacks for Push-Up, Lunge, Squat are provided.
 
+## Test video link
+- https://youtu.be/e08ymQFoo_k
+
 ## Report (Written in korean)
 <object data="https://github.com/broiron/OneMoreSet/blob/main/docs/F4.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/broiron/OneMoreSet/blob/main/docs/F4.pdf">
