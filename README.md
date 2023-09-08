@@ -1,6 +1,6 @@
 # OneMoreSet
 
-Hello! We designed the online personal training AI through google teachable machine.
+Hello! We designed the online personal training AI service
 
 
 ## Inspired by
